@@ -1,0 +1,60 @@
+
+h	java:S112¡"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÈÅƒ»í1
+p
+java:S11923"NDefine a constant instead of duplicating this literal "testStepName" 13 times.(Î‚ï«üÿÿÿÿ8ÌÅƒ»í1
+k
+java:S1192)"IDefine a constant instead of duplicating this literal "tg:logs" 14 times.(ñ‘ªœùÿÿÿÿ8ÍÅƒ»í1
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÆÔ8ÎÅƒ»í1
+r	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÛêÓıÿÿÿÿ8ÎÅƒ»í1
+r	java:S117/"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªÇ¦õúÿÿÿÿ8ÎÅƒ»í1
+n	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–ù²»8ÏÅƒ»í1
+s	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï£‡úÿÿÿÿ8ÏÅƒ»í1
+G
+java:S1874"+Remove this use of "URL"; it is deprecated.(Û„îL8‡Æƒ»í1
+|
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‹Æƒ»í1
+b
+java:S4738)"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ñ‘ªœùÿÿÿÿ8Æƒ»í1
+L	java:S106-"+Replace this use of System.out by a logger.(ëÁôËùÿÿÿÿ8Æƒ»í1
+L	java:S1061"+Replace this use of System.out by a logger.(»êéÌøÿÿÿÿ8Æƒ»í1
+b
+java:S47383"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(Î‚ï«üÿÿÿÿ8Æƒ»í1
+L	java:S1069"+Replace this use of System.out by a logger.(µå÷àûÿÿÿÿ8Æƒ»í1
+]
+java:S4738;"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(‰å¹å8‘Æƒ»í1
+G	java:S106A"+Replace this use of System.out by a logger.(ÿ²šù8‘Æƒ»í1
+b
+java:S4738C"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ò””úÿÿÿÿ8’Æƒ»í1
+L	java:S106K"+Replace this use of System.out by a logger.(îæ¢áÿÿÿÿÿ8“Æƒ»í1
+b
+java:S4738M"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(êí“´ıÿÿÿÿ8“Æƒ»í1
+L	java:S106R"+Replace this use of System.out by a logger.(…Œê¡øÿÿÿÿ8”Æƒ»í1
+]
+java:S4738S"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ƒ²º8•Æƒ»í1
+L	java:S106X"+Replace this use of System.out by a logger.(ó§§çûÿÿÿÿ8–Æƒ»í1
+b
+java:S4738Z"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(‹•—¯ÿÿÿÿÿ8—Æƒ»í1
+G	java:S106c"+Replace this use of System.out by a logger.(ø†äı8™Æƒ»í1
+b
+java:S4738e"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ı‘£ÿÿÿÿÿ8šÆƒ»í1
+L	java:S106k"+Replace this use of System.out by a logger.(Ú³Ö’üÿÿÿÿ8›Æƒ»í1
+b
+java:S4738l"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(–Šıéşÿÿÿÿ8œÆƒ»í1
+G	java:S106t"+Replace this use of System.out by a logger.(¼ğ­ˆ8ŸÆƒ»í1
+b
+java:S4738v"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(Ä±ØÌûÿÿÿÿ8 Æƒ»í1
+F	java:S106|"+Replace this use of System.out by a logger.(¼Ï¤f8¡Æƒ»í1
+\
+java:S4738~"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(œİc8¢Æƒ»í1
+H	java:S106ƒ"+Replace this use of System.out by a logger.(¢«Š8¤Æƒ»í1
+M	java:S106‰"+Replace this use of System.out by a logger.(‰ÉÙüÿÿÿÿ8¦Æƒ»í1
+c
+java:S4738‹"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(–¡¾ıÿÿÿÿ8§Æƒ»í1
+H	java:S106’"+Replace this use of System.out by a logger.(şÉÅİ8ªÆƒ»í1
+^
+java:S4738”"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ÂÀÏÃ8ªÆƒ»í1
+M	java:S106š"+Replace this use of System.out by a logger.(ÄúÚ¼ÿÿÿÿÿ8­Æƒ»í1
+c
+java:S4738œ"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(¬§óãùÿÿÿÿ8®Æƒ»í1
+M
+java:S59600"+Remove this assertion from production code.(Àò–µûÿÿÿÿ8±Æƒ»í1

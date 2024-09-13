@@ -1,0 +1,95 @@
+
+w
+java:S3740&"/Provide the parametrized type for this generic.(âªõòÿÿÿÿÿ8üˆ½ñé1J$aa616f1a-00ae-4a7c-9e99-503de67db24b
+w
+java:S3740'"/Provide the parametrized type for this generic.(Á­½úÿÿÿÿ8À†Àñé1J$9b4fa53f-45f9-48be-a537-39f22edf2e36
+r
+java:S37408"/Provide the parametrized type for this generic.(­æ‘Œ8œèÂñé1J$6891b94c-5f6b-4f8c-8617-ed712f887b62
+x
+java:S3740«"/Provide the parametrized type for this generic.(¹åÚüøÿÿÿÿ8ÚĞÏñé1J$abe36cca-ea30-4e2c-8e68-2339492b295d
+Ì
+java:S1192E"ˆDefine a constant instead of duplicating this literal "//android.widget.EditText[@resource-id='com.android.chrome:id/url_bar']" 3 times.(Œêîˆ8ÙŞ¼ñé1J$45710da6-272b-45d3-8a0b-72607a54a454
+‘
+java:S1192³"MDefine a constant instead of duplicating this literal "testStepName" 4 times.(¶œã¨8ÚŞ¼ñé1J$77618acd-1345-4da2-b6a0-e2929a00d3fc
+Œ
+java:S1192¬"HDefine a constant instead of duplicating this literal "tg:logs" 5 times.(½Ñ©8ÚŞ¼ñé1J$d99cad16-3e6c-4beb-9c43-c046e5833e07
+“	java:S117E"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œêîˆ8ÛŞ¼ñé1J$19732d70-d3e6-48c5-bc4b-cfd0f5d09833
+“	java:S117M"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÆŠè8ÜŞ¼ñé1J$bc849d13-b2c9-4ae1-a91b-82d3c10ff2de
+“	java:S117f"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àÓ8ÜŞ¼ñé1J$ba7cb09b-b6ab-4a42-93a5-3a74d57ee7cb
+“	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Æ–å8İŞ¼ñé1J$4c34723c-ebe0-46d3-94a3-0611823ffce4
+˜	java:S117~"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ÿ»Ôÿÿÿÿÿ8İŞ¼ñé1J$6e87112a-ba8c-48db-a064-5231929bc5de
+™	java:S117„"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶†¨Âÿÿÿÿÿ8İŞ¼ñé1J$de14928a-9fa6-4256-83ab-3985da1a3cbc
+™	java:S117Š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«ª¥™ÿÿÿÿÿ8ŞŞ¼ñé1J$907d474d-f44c-4046-9619-b54fcefd9a3c
+™	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û…ğ¾úÿÿÿÿ8ŞŞ¼ñé1J$76db7dc4-db11-4d98-be3e-15b290b398bc
+”	java:S117±"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ñõãâ8ßŞ¼ñé1J$682b8f27-902f-4b8f-83e5-b3cc4f3f932b
+”	java:S117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾âÏá8ßŞ¼ñé1J$535b17c3-d096-41fd-a969-aee336eaba3d
+k
+java:S1604W"(Make this anonymous inner class a lambda(á”§ù8áŞ¼ñé1J$49f56420-a0c7-4cd2-a2e2-b9764fff18fe
+k
+java:S1604l"(Make this anonymous inner class a lambda(á”§ù8âŞ¼ñé1J$09ddefad-0609-4d5e-b8cf-70e0c99a5c93
+l
+java:S1604"(Make this anonymous inner class a lambda(á”§ù8âŞ¼ñé1J$be5354c9-e648-4a5b-a6a7-c79efed0e41f
+s
+java:S1874'"+Remove this use of "URL"; it is deprecated.(Á­½úÿÿÿÿ8›ÑÏñé1J$6d739b84-c823-4e7f-bc01-b675309d613c
+~	java:S125,"<This block of commented-out lines of code should be removed.(òÙê8¼ß¼ñé1J$fdacb1de-d3b0-45fd-956a-33a6ee08ed44
+ƒ	java:S1253"<This block of commented-out lines of code should be removed.(Œªğùùÿÿÿÿ8½ß¼ñé1J$367b5316-7136-48ea-a793-e0028bbc7077
+~
+java:S1854<";Remove this useless assignment to local variable "address".(ˆ½œÔ8Ãß¼ñé1J$2c3e2169-215b-42fe-ba7c-4bc7841e17e2
+ƒ	java:S1259"<This block of commented-out lines of code should be removed.(£ÍËˆşÿÿÿÿ8Èß¼ñé1J$e75fd57b-eccf-4e8b-a442-d9eaf1dc46fc
+o
+java:S1481<",Remove this unused "address" local variable.(ˆ½œÔ8Ëß¼ñé1J$19699a82-d071-4109-b3a3-ddc6a3409b49
+~	java:S125>"<This block of commented-out lines of code should be removed.(›°€«8Ìß¼ñé1J$5188f589-7da0-42d9-bd71-773bcab37208
+~	java:S125F"<This block of commented-out lines of code should be removed.(øÂİı8Ñß¼ñé1J$f753c4d0-0302-484c-aadc-50eade06459e
+m	java:S106I"+Replace this use of System.out by a logger.(¹ãÛ¼8Óß¼ñé1J$3fc50035-baf8-4271-9579-285c84881e89
+ƒ	java:S125J"<This block of commented-out lines of code should be removed.(ˆ‹ÑŒüÿÿÿÿ8Ôß¼ñé1J$5b5993f6-03e4-48cc-b400-53d3d5769fec
+ƒ	java:S125O"<This block of commented-out lines of code should be removed.(çœ·ïùÿÿÿÿ8×ß¼ñé1J$4bae5ba0-889f-4611-9c96-d88eac046943
+r	java:S106R"+Replace this use of System.out by a logger.(¢¹Âüÿÿÿÿ8Ùß¼ñé1J$5c3257a8-9fb7-48c4-87be-0ff5845f5fa5
+ƒ	java:S125T"<This block of commented-out lines of code should be removed.(ñ¯ÍŠûÿÿÿÿ8Úß¼ñé1J$af5df266-49b0-4406-a637-50739ef78a3b
+m	java:S106]"+Replace this use of System.out by a logger.(Í”Í‚8áß¼ñé1J$02075ca5-93c2-4986-8fd7-e380dd882207
+~	java:S125`"<This block of commented-out lines of code should be removed.(·†8äß¼ñé1J$b5b59455-a8b8-422f-b1f2-98ffb0cc5d10
+m	java:S106c"+Replace this use of System.out by a logger.(“®Å”8èß¼ñé1J$ec72a8a2-add2-48c4-b1d6-b59e70373027
+ƒ	java:S125g"<This block of commented-out lines of code should be removed.(­àŒ¬ùÿÿÿÿ8íß¼ñé1J$78aa502f-6d68-4b9c-b02e-bd9a67350d11
+r	java:S106j"+Replace this use of System.out by a logger.(›ñıÿÿÿÿÿ8ğß¼ñé1J$f72c3e61-7ad8-4abf-afcf-ed750f22df81
+r	java:S106t"+Replace this use of System.out by a logger.(ÇÆÚ³øÿÿÿÿ8õß¼ñé1J$ce0450ec-d33b-42a2-ad9b-0009dad1a284
+ƒ	java:S125r"<This block of commented-out lines of code should be removed.(¼ôÙÁøÿÿÿÿ8÷ß¼ñé1J$e16b2576-c03d-4f35-a042-f77ab36dbed5
+ƒ	java:S125w"<This block of commented-out lines of code should be removed.(»§Ãİúÿÿÿÿ8ùß¼ñé1J$5b15ba0f-90bf-4240-a9b8-dab3c22e457a
+m	java:S106|"+Replace this use of System.out by a logger.(û¨¸›8ûß¼ñé1J$93c97a97-46ca-4e5f-ab91-d73fb300a2a4
+~	java:S125z"<This block of commented-out lines of code should be removed.(İµŒ£8ıß¼ñé1J$4560434e-8446-48f6-8ca4-962d9e76cc62
+s	java:S106‚"+Replace this use of System.out by a logger.(àÕ¢Æüÿÿÿÿ8€à¼ñé1J$0bb4a523-cd96-4ccd-9e31-cb00c4cd9e4d
+~	java:S125€"<This block of commented-out lines of code should be removed.(Ê˜ã08à¼ñé1J$062904fc-296d-4f4b-a673-d48d32b3172d
+n	java:S106ˆ"+Replace this use of System.out by a logger.(û…ûä8†à¼ñé1J$da32e3d0-4d1a-445d-8ee8-a5e820401fe5
+	java:S125†"<This block of commented-out lines of code should be removed.(™Ãƒµ8‡à¼ñé1J$e98c5aae-aeb0-479d-a87f-a876b91d2048
+s	java:S106"+Replace this use of System.out by a logger.(ö‰ƒøÿÿÿÿ8‹à¼ñé1J$7798bf4a-339c-4b51-b96d-dc71a5ab09f3
+	java:S125Œ"<This block of commented-out lines of code should be removed.(¨¥İ8à¼ñé1J$a01816b6-3f9a-43cf-be32-4a300042a95b
+s	java:S106”"+Replace this use of System.out by a logger.(ø÷şÿşÿÿÿÿ8‘à¼ñé1J$22a6f42f-a357-41e6-9dee-ac7a0904698d
+	java:S125’"<This block of commented-out lines of code should be removed.(¢øù8’à¼ñé1J$aaffaf4c-2338-4f56-9445-d09b29ebd22a
+s	java:S106—"+Replace this use of System.out by a logger.(ü¼¼Áÿÿÿÿÿ8–à¼ñé1J$7855c70b-b9dc-41e7-bdf6-c3d006733680
+n	java:S106œ"+Replace this use of System.out by a logger.(çÊÖ¾8˜à¼ñé1J$e5181d7e-0199-4bd3-adf0-b020193f21c9
+	java:S125™"<This block of commented-out lines of code should be removed.(„Š´¨8šà¼ñé1J$6ce20870-816c-4112-bbd8-ffa1c5848207
+	java:S125¤"<This block of commented-out lines of code should be removed.(çò¾’8¡à¼ñé1J$57633b0c-8b87-4328-ad0a-428e1f26ce18
+ƒ
+java:S1854­":Remove this useless assignment to local variable "submit".(œÉ–ıÿÿÿÿ8£à¼ñé1J$31d375ca-f5e0-4292-9406-dfb15fb6b4bc
+„
+java:S4738¬"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(½Ñ©8ûà¼ñé1J$d4834b36-2627-4930-899b-af69f2f6bc79
+t
+java:S1481­"+Remove this unused "submit" local variable.(œÉ–ıÿÿÿÿ8á¼ñé1J$bc4c68b7-84d9-4556-a2e9-f48339b9da4e
+„	java:S125°"<This block of commented-out lines of code should be removed.(€Œ€—ûÿÿÿÿ8‚á¼ñé1J$293cccfd-c86b-4a6c-b5a7-70ded8709d59
+„
+java:S4738³"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(¶œã¨8…á¼ñé1J$63ff2e1d-a97c-4e80-b3d1-dee92b7985a7
+„	java:S125´"<This block of commented-out lines of code should be removed.(ù±×ûÿÿÿÿ8‡á¼ñé1J$c637437e-69af-4dd8-bc06-eff6c0ce3c8f
+„
+java:S4738¶"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(˜¡ï‡8Šá¼ñé1J$5f5970d2-c311-4951-b0a8-e6f9cb067cb7
+n	java:S106¸"+Replace this use of System.out by a logger.(¹ãÛ¼8á¼ñé1J$b3f2f691-c71c-45fe-9fa0-a38b57b347b0
+„	java:S125·"<This block of commented-out lines of code should be removed.(¼ĞåÖûÿÿÿÿ8á¼ñé1J$8c861d4a-fc70-4587-9fdb-bb815981bf42
+‰
+java:S4738¼"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(š’êÔùÿÿÿÿ8‘á¼ñé1J$a027b3ff-03c3-4d55-9a47-3b49733165cf
+„	java:S125½"<This block of commented-out lines of code should be removed.(é¢’¬ûÿÿÿÿ8’á¼ñé1J$9bfa7fa3-a63d-4ae6-aa7d-681661764921
+‰
+java:S4738¿"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(òÔ¼ôıÿÿÿÿ8”á¼ñé1J$b71cc839-1c9d-4267-b3c2-47686bd029c5
+s	java:S106Á"+Replace this use of System.out by a logger.(¢¹Âüÿÿÿÿ8–á¼ñé1J$ced8009e-b8bb-45c7-b860-af30f88a35a4
+„	java:S125À"<This block of commented-out lines of code should be removed.(œ»üúÿÿÿÿÿ8˜á¼ñé1J$d03ac137-32da-43f4-b513-40bd834b5535
+	java:S125Ã"<This block of commented-out lines of code should be removed.(öíÜà8›á¼ñé1J$5b7146bb-1251-4762-ba02-33b1411630c3
+~	java:S125û"<This block of commented-out lines of code should be removed.(ãÏ˜8á¼ñé1J$07ebef58-8efa-499c-8070-e9d119b9d4d0
+„	java:S125€"<This block of commented-out lines of code should be removed.(€“”œüÿÿÿÿ8á¼ñé1J$a3788304-292f-42f9-b6ee-e7d86b1033e5
+r
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¾ôÏñé1J$74b277fa-b79e-4103-9a6c-315b0b845736

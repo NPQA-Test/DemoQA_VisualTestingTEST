@@ -1,0 +1,78 @@
+
+p
+java:S3740("/Provide the parametrized type for this generic.(›ÙƒìøÿÿÿÿJ$cc3bd6b4-2948-479a-b5fc-18e4816ff17a
+w
+java:S3740("/Provide the parametrized type for this generic.(›Ùƒìøÿÿÿÿ8º„òé1J$b84ad0fb-f20b-4d09-8d19-bd6fe5c2633d
+w
+java:S3740n"/Provide the parametrized type for this generic.(ÒĞò»ùÿÿÿÿ8½ôŠòé1J$e92c41d7-ebb9-44b9-9a28-b1cc8f81f805
+‘	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°øËĞıÿÿÿÿJ$3eab7920-2501-4094-bd4a-76eeff33d38d
+‹	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²ÍCJ$29256412-f6be-46f9-8fdb-a54002da67c1
+Œ	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹ƒïJ$067d59c4-5865-4fab-802f-2900ae118955
+‘	java:S117W"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÕÇ¨ıÿÿÿÿJ$d0d72b86-07a5-42ee-b7a3-2631d95bbcdb
+Œ	java:S117["QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½Ş•òJ$e3c4cd37-0d05-44c4-8104-6642bb6de017
+Œ	java:S117_"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(š›€ôJ$f69d1a66-4b36-4fbe-89a4-c9b5e1c01526
+‘	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ±£ÖøÿÿÿÿJ$ae323bed-8c69-4768-8f97-79c6527d25f4
+Œ	java:S117g"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ˜ÇÊJ$92df3a74-1aa2-414d-a6f9-444b4f562e7f
+Œ	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾ŞïJ$cbaabcaa-cafe-416c-a420-8e263f205c7f
+‘	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—€ËòúÿÿÿÿJ$787c53af-89f8-4776-a211-0786bd4ac330
+’	java:S117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡²öÌúÿÿÿÿJ$6b04c89f-0ab2-4ef4-9adb-21a5f707b2c8
+’	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁšÚºûÿÿÿÿJ$713a9e27-47c8-42af-b889-ee15b7929652
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘İúÿÿÿÿÿJ$a2da60b0-b304-450f-aaa0-98e5b75310c5
+Œ	java:S117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¥¾ÁmJ$acb440e2-b170-4007-ad53-3cc45f9cbfe4
+’	java:S117˜"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÅØ¦¸ÿÿÿÿÿJ$4f805499-2900-4517-836e-31ee115b4214
+	java:S117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ˜ÇÊJ$1c512358-5a5a-4c14-bc80-cdcad4d3fc00
+d
+java:S1604J"(Make this anonymous inner class a lambda(á”§ùJ$71863cc9-9fe2-4d49-a70f-6e346942842d
+e
+java:S1604"(Make this anonymous inner class a lambda(á”§ùJ$91f7c5bb-b387-4520-868a-d965238c13e4
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(®÷Œ”úÿÿÿÿJ$cb61de87-18cf-4e57-a0d9-1f3d89e80aa0
+„
+java:S1854)"<Remove this useless assignment to local variable "timeouts".(ä‡ÿÿÿÿÿ8À¹ûñé1J$96edc538-a303-4920-9070-accbd69a91b2
+s
+java:S1874("+Remove this use of "URL"; it is deprecated.(›Ùƒìøÿÿÿÿ8ªÃ‰òé1J$9ab6012d-14fa-4a20-b145-a4691b2d4a1f
+u
+java:S1481)"-Remove this unused "timeouts" local variable.(ä‡ÿÿÿÿÿ8Ú¹ûñé1J$a4241c0c-ce76-4484-91af-6c3d0ca6430d
+m
+java:S1481,",Remove this unused "context" local variable.(Ğì¸ÿÿÿÿÿJ$d54eaab7-1ff7-4714-9a1b-577a787b33fc
+f	java:S106."+Replace this use of System.out by a logger.(Ûş†ßJ$1be4a017-a199-41f2-9344-f7a95003bc3c
+w	java:S1252"<This block of commented-out lines of code should be removed.(øÂİıJ$2cfe532b-3b9a-4f39-a318-3d1f3a505d2d
+|	java:S1254"<This block of commented-out lines of code should be removed.(ªµÏ”üÿÿÿÿJ$4951d126-6f8b-4320-b5f6-a408ac41b7b9
+{
+java:S1854;":Remove this useless assignment to local variable "submit".(€ÔŠ´şÿÿÿÿJ$a0ed0ddf-7b09-48bd-8f01-8acf4eeac385
+
+java:S1854:"LRemove this useless assignment to local variable "predicateStringValueText".(î§ øÿÿÿÿÿJ$1feb7b95-264b-4a1b-897e-65e0c7a1c632
+~
+java:S1481:"=Remove this unused "predicateStringValueText" local variable.(î§ øÿÿÿÿÿJ$d4f482e3-1630-4d4b-a791-827a0f07de6f
+l
+java:S1481;"+Remove this unused "submit" local variable.(€ÔŠ´şÿÿÿÿJ$4951e243-5c5b-4e54-9b7a-15b3a1b81839
+w	java:S125<"<This block of commented-out lines of code should be removed.(ÿÿéJ$c71eb958-e6b4-42ee-ad7d-86410d0140de
+f	java:S106A"+Replace this use of System.out by a logger.(¹ãÛ¼J$e5f13b35-6c4b-4c29-99ee-269b2caaafba
+k	java:S106F"+Replace this use of System.out by a logger.(¢¹ÂüÿÿÿÿJ$8bda832b-d6a0-4b48-bc84-7b65e1524db2
+|	java:S125E"<This block of commented-out lines of code should be removed.(ªµ¹ ùÿÿÿÿJ$0bd42da1-8c97-475d-8d64-494e79217b57
+e	java:S106P"+Replace this use of System.out by a logger.(´Ïò/J$4447063b-ce4a-4138-89bc-aaf49c6aaf6f
+f	java:S106U"+Replace this use of System.out by a logger.(û¨¸›J$e81a102e-7dff-4ac1-b675-eb40747963b8
+k	java:S106Y"+Replace this use of System.out by a logger.(àÕ¢ÆüÿÿÿÿJ$886ca86e-0359-4cdc-bce6-bc02c520e9aa
+f	java:S106]"+Replace this use of System.out by a logger.(û…ûäJ$c3937d4c-eb15-4b53-9315-9639c8cbf63f
+k	java:S106a"+Replace this use of System.out by a logger.(ÛËü×şÿÿÿÿJ$5b37df97-b6c1-48c8-b639-1ea56993c81d
+k	java:S106e"+Replace this use of System.out by a logger.(ø÷şÿşÿÿÿÿJ$784724c3-1efe-4844-8f89-27fbd93156aa
+k	java:S106i"+Replace this use of System.out by a logger.(Åá±ºşÿÿÿÿJ$14c11e15-e988-42a3-8697-f8ff13a08e33
+{
+java:S1854p":Remove this useless assignment to local variable "submit".(€ÔŠ´şÿÿÿÿJ$2951494c-2578-443e-9767-e4faa51bdd3a
+l
+java:S1481p"+Remove this unused "submit" local variable.(€ÔŠ´şÿÿÿÿJ$bf521a99-0221-4bb0-a10d-27010a9f91f1
+|	java:S125q"<This block of commented-out lines of code should be removed.(¸¦×ÅùÿÿÿÿJ$fd8d6c5d-316c-4a27-be54-67147ffe9182
+|	java:S125t"<This block of commented-out lines of code should be removed.(ˆÀÙâùÿÿÿÿJ$59494cce-9569-40cb-95a1-4e95533cc19b
+f	java:S106w"+Replace this use of System.out by a logger.(¨İ—úJ$e5acc819-c1b5-4881-8191-743e6440cc5a
+f	java:S106{"+Replace this use of System.out by a logger.(…Ğâ÷J$c076a6d8-2df0-4c4c-af8b-cd442cb6850b
+w	java:S125}"<This block of commented-out lines of code should be removed.(î¢ÕJ$a89bf725-742a-4112-98e6-e1a5bc9cef91
+g	java:S106Š"+Replace this use of System.out by a logger.(ƒ•ËJ$b371531d-461a-4587-a32e-4c8546d6a52e
+g	java:S106"+Replace this use of System.out by a logger.(¡ÔäôJ$3469e343-55af-44d8-83b7-1c2a550bfb6b
+l	java:S106’"+Replace this use of System.out by a logger.(òÿæ¯ÿÿÿÿÿJ$9ab52137-1903-4766-b09a-cc1385c67604
+g	java:S106–"+Replace this use of System.out by a logger.(ÿØ¿ÊJ$4e9da883-a7c6-4c48-a646-ef2cede3149d
+g	java:S106š"+Replace this use of System.out by a logger.(õ¬¤J$dd2b6d00-cc98-4d40-bcf3-8c05d94afa00
+}	java:S125œ"<This block of commented-out lines of code should be removed.(¨¥àÿÿÿÿÿJ$c8c18297-4e49-40d9-ba03-ad85049534b1
+}	java:S125¢"<This block of commented-out lines of code should be removed.(ïç´ÑÿÿÿÿÿJ$be5b43c0-b339-452f-a549-8e7508390ef5
+g	java:S106¥"+Replace this use of System.out by a logger.(ÿØ¿ÊJ$97f1c40c-99a2-4a2c-b593-30f4e60bdc5e
+l	java:S106©"+Replace this use of System.out by a logger.(Åá±ºşÿÿÿÿJ$3b8353ac-1502-4019-96dc-ad622f481254
+
+java:S1128"HRemove this unused import 'io.appium.java_client.android.AndroidDriver'.(ç•Ø®ıÿÿÿÿ8›õŠòé1J$253ca2c2-d34e-40da-92e2-0a8531fb3001

@@ -1,0 +1,16 @@
+
+	java:S112["FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ÆÍÓëê1J$a9e23776-2f69-45be-a867-4f4318bfdc1f
+	java:S119"IRename this generic name to match the regular expression '^[A-Z][0-9]?$'.(ÙĞĞÖúÿÿÿÿ8ÅÙÔëê1J$4ae8b19e-1c73-4f67-b5c0-0c2f49618c0e
+n
+java:S1874"+Remove this use of "URL"; it is deprecated.(Ğ„Ä‰8¿Ëëë1J$beea7a90-3e5b-4f08-bbab-f5ef36b7b2ee
+¡
+java:S2142Z"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ŞÎÓëê1J$dc25f900-b265-45ab-8931-9239e0abcfc4
+~	java:S125$"<This block of commented-out lines of code should be removed.(ŠÇ­Ê8âÎÓëê1J$7059062f-2b35-4803-991b-e2e9ef4b855b
+r	java:S106)"+Replace this use of System.out by a logger.(ÙİÛèúÿÿÿÿ8åÎÓëê1J$78ffc1cc-9998-40cf-bb96-5a1d5cd2f5d5
+m	java:S106-"+Replace this use of System.out by a logger.(È˜ûŸ8ëÎÓëê1J$3913c451-6ff7-4524-be33-80afbfc0add3
+m	java:S1063"+Replace this use of System.out by a logger.(Õ°Ì8ğÎÓëê1J$3268ae27-fa25-4871-b1b7-0c2dff7b0000
+r	java:S106B"+Replace this use of System.out by a logger.(í©ôûøÿÿÿÿ8öÎÓëê1J$a7138226-3643-48aa-9db2-bdea779a7005
+r	java:S106G"+Replace this use of System.out by a logger.(¥àè¿şÿÿÿÿ8ûÎÓëê1J$c5aa23b2-0ca4-46a4-b90a-96617535177d
+m	java:S106K"+Replace this use of System.out by a logger.(Ö÷Ñï8ÏÓëê1J$0a4ed385-33ff-4baa-b991-cabd70e8ffa5
+l	java:S106O"+Replace this use of System.out by a logger.(ë—äJ8…ÏÓëê1J$8c2a04a1-7f4b-422d-806e-317ac4a29044
+m	java:S106U"+Replace this use of System.out by a logger.(š²ïæ8‰ÏÓëê1J$149fc830-f815-4efe-bdbb-d38a731d1798

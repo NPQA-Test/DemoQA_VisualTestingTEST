@@ -1,0 +1,28 @@
+
+w
+java:S3740"/Provide the parametrized type for this generic.(âªõòÿÿÿÿÿ8ìÇ²í1J$b293e001-f138-42c6-add9-87055a3ee02d
+r
+java:S3740"/Provide the parametrized type for this generic.(ƒ¢ÌÔ8íÇ²í1J$2aa34298-50f3-4efc-bdd2-948772725268
+w
+java:S3740."/Provide the parametrized type for this generic.(”ôµ™şÿÿÿÿ8îÇ²í1J$681efe93-32ce-46ee-afd6-e014249eab92
+•
+java:S11927"MDefine a constant instead of duplicating this literal "testStepName" 3 times.(ÁÁ„”úÿÿÿÿ8ğÇ²í1J$8ac3c617-5c5f-4654-94ab-fe7c8dcdd8f0
+‹
+java:S11920"HDefine a constant instead of duplicating this literal "tg:logs" 4 times.(¨êôæ8òÇ²í1J$29f9476a-4fc5-4140-8f37-a35c3b0b5885
+“	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Œêîˆ8ôÇ²í1J$2f130590-c07b-4d8d-b618-4845878cb314
+“	java:S117;"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ÆŠè8ôÇ²í1J$1473e4f0-a538-47c9-88bb-fd36753331aa
+˜	java:S117C"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›¿À­şÿÿÿÿ8ôÇ²í1J$da824d54-5e2a-4b78-9b27-fd1191259d47
+n
+java:S1874"+Remove this use of "URL"; it is deprecated.(ƒ¢ÌÔ8½È²í1J$e173819f-6a80-4a01-bbf8-df0fd212260b
+~	java:S125#"<This block of commented-out lines of code should be removed.(Ñ€üô8ÀÈ²í1J$9b46658d-cb11-4849-a1b1-8f41bad3434f
+ƒ
+java:S47380"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(¨êôæ8ÃÈ²í1J$312083a6-cf35-4c55-bb21-336fb7265e0f
+r	java:S1066"+Replace this use of System.out by a logger.(ğä¤åÿÿÿÿÿ8ÊÈ²í1J$521f6fa9-047d-4d94-8584-e50fe19ad4ac
+ˆ
+java:S47387"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(ÁÁ„”úÿÿÿÿ8ËÈ²í1J$8f0a72ba-9b44-40a3-8fbb-d3d8d4b86779
+r	java:S106="+Replace this use of System.out by a logger.(¢¹Âüÿÿÿÿ8ÌÈ²í1J$22c7528c-0edf-454d-a612-dfc392b252e8
+ˆ
+java:S4738?"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(¸úöúÿÿÿÿ8ÌÈ²í1J$ccb78598-efd5-49b8-bb38-cba13abbdc20
+l	java:S106E"+Replace this use of System.out by a logger.(œ·«8ĞÈ²í1J$8c060ac3-c122-4f8b-8906-4a9ffed56d7e
+ˆ
+java:S4738G"@Use "java.util.Map.of()" or "java.util.Map.ofEntries()" instead.(Ëé¹ğûÿÿÿÿ8ÑÈ²í1J$a17b64e8-2e4e-49f6-b2b1-30cb68edf72c
